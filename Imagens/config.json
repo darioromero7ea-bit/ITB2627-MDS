@@ -1,0 +1,9 @@
+{
+  "nombre_proyecto": "Mi Primer Proyecto Python",
+  "version": 1.0,
+  "autor": "Tu Nombre",
+  "configuracion": {
+    "idioma": "es",
+    "modo_oscuro": true
+  }
+}

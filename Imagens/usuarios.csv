@@ -1,0 +1,4 @@
+id,nombre,email,rol
+1,Ana Lopez,ana@ejemplo.com,Admin
+2,Carlos Garcia,carlos@ejemplo.com,Usuario
+3,Maria Rodriguez,maria@ejemplo.com,Editor
