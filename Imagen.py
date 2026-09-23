@@ -4,11 +4,11 @@ import csv
 from PIL import Image   # Recuerda haber instalado: pip install Pillow
 
 def main():
-    # Nombre de la carpeta donde están tus archivos
-    carpeta = "Imagenes"
+    # Nombre exacto de tu carpeta (según tu panel izquierdo)
+    carpeta = "Imagens"
 
-    # 1. Archivo JPG (imagen)
-    ruta_jpg = os.path.join(carpeta, "foto.jpg")
+    # 1. Archivo JPG (tu imagen se llama GitHub.jpg)
+    ruta_jpg = os.path.join(carpeta, "GitHub.jpg")
     try:
         imagen = Image.open(ruta_jpg)
         print("✅ Imagen JPG cargada correctamente")
